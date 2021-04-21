@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/image-to-speech/static/css/main.1e983d45.chunk.css",
-    "main.js": "/image-to-speech/static/js/main.17a12638.chunk.js",
-    "main.js.map": "/image-to-speech/static/js/main.17a12638.chunk.js.map",
+    "main.js": "/image-to-speech/static/js/main.a8b227af.chunk.js",
+    "main.js.map": "/image-to-speech/static/js/main.a8b227af.chunk.js.map",
     "runtime-main.js": "/image-to-speech/static/js/runtime-main.68c1c188.js",
     "runtime-main.js.map": "/image-to-speech/static/js/runtime-main.68c1c188.js.map",
     "static/css/2.456d7a19.chunk.css": "/image-to-speech/static/css/2.456d7a19.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.456d7a19.chunk.css",
     "static/js/2.d9cabfd9.chunk.js",
     "static/css/main.1e983d45.chunk.css",
-    "static/js/main.17a12638.chunk.js"
+    "static/js/main.a8b227af.chunk.js"
   ]
 }
