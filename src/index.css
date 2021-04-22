@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tile {
+  text-decoration: underline;
+  color: black;
+}
+
+.tile-img-top {
+  max-width: 240px;
+  max-height: 340px;
+  object-fit: cover;
+}
+
+.tile-image {
+  width: 100%;
+  max-width: 240px;
+}
+
+.text {
+  color: white;
+}
+
+.board-title {
+  font-size: 5rem;
+}

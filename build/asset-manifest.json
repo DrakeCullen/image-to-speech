@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/image-to-speech/static/css/main.2c3e241d.chunk.css",
+    "main.js": "/image-to-speech/static/js/main.693cf415.chunk.js",
+    "main.js.map": "/image-to-speech/static/js/main.693cf415.chunk.js.map",
+    "runtime-main.js": "/image-to-speech/static/js/runtime-main.f72aa889.js",
+    "runtime-main.js.map": "/image-to-speech/static/js/runtime-main.f72aa889.js.map",
+    "static/css/2.456d7a19.chunk.css": "/image-to-speech/static/css/2.456d7a19.chunk.css",
+    "static/js/2.0bf9015e.chunk.js": "/image-to-speech/static/js/2.0bf9015e.chunk.js",
+    "static/js/2.0bf9015e.chunk.js.map": "/image-to-speech/static/js/2.0bf9015e.chunk.js.map",
+    "static/js/3.fc76b69c.chunk.js": "/image-to-speech/static/js/3.fc76b69c.chunk.js",
+    "static/js/3.fc76b69c.chunk.js.map": "/image-to-speech/static/js/3.fc76b69c.chunk.js.map",
+    "index.html": "/image-to-speech/index.html",
+    "static/css/2.456d7a19.chunk.css.map": "/image-to-speech/static/css/2.456d7a19.chunk.css.map",
+    "static/css/main.2c3e241d.chunk.css.map": "/image-to-speech/static/css/main.2c3e241d.chunk.css.map",
+    "static/js/2.0bf9015e.chunk.js.LICENSE.txt": "/image-to-speech/static/js/2.0bf9015e.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/image-to-speech/static/media/arrow_right.0897f985.svg",
+    "static/media/check.a252283f.png": "/image-to-speech/static/media/check.a252283f.png",
+    "static/media/all.min.css": "/image-to-speech/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f72aa889.js",
+    "static/css/2.456d7a19.chunk.css",
+    "static/js/2.0bf9015e.chunk.js",
+    "static/css/main.2c3e241d.chunk.css",
+    "static/js/main.693cf415.chunk.js"
+  ]
+}
